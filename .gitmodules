@@ -1,0 +1,3 @@
+[submodule "ryuutama-charsheet"]
+	path = ryuutama-charsheet
+	url = git@github.com:oldgeese/ryuutama-charsheet.git
